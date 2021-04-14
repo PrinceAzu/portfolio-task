@@ -1,0 +1,182 @@
+/* ================================================
+   General
+   ================================================ */
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: 'Heebo', sans-serif;
+}
+
+
+/* ================================================
+   Body
+   ================================================ */
+
+body {
+    font-size: 18px;
+    font-family: calibri, sans-serif;
+    background-color: rgb(39, 38, 38);
+}   
+
+
+/* ================================================
+   Main
+   ================================================ */
+
+.main {
+    width: 48%;
+    margin: 1rem auto;
+    background-color: white;
+    padding: 2.5rem;
+}   
+
+/* ================================================
+   About
+   ================================================ */
+
+.about {
+    margin-top: 5rem;
+}
+
+.name {
+    color: rgb(1, 1, 70);
+    font-size: 40px;
+    font-family: calibri, Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    text-transform: uppercase;
+    padding: 1rem 0;
+    letter-spacing: 2px;
+}
+
+.title {
+    color: rgb(1, 1, 70);
+    font-family: calibri, Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    padding: .5rem 0;
+}
+
+p span {
+    font-weight: 600;
+    font-style: italic;
+}
+
+.contact {
+    padding: 1.5rem 0;
+}
+
+.location {
+    padding: .5rem 0;
+}
+
+/* hr {
+    color: brown;
+} */
+
+
+/* ================================================
+   Summary
+   ================================================ */
+
+.sum {
+    padding: 1rem 0;
+}   
+
+.sum1 {
+    margin-bottom: 1rem;
+    letter-spacing: 1px;
+}
+
+.sum2 {
+    margin-bottom: 2rem;
+    letter-spacing: 1px;
+}
+
+/* ================================================
+   Work Experience
+   ================================================ */
+
+.header {
+     font-family: Georgia, 'Times New Roman', Times, serif;
+     font-weight: 500;
+     text-transform: uppercase;
+     text-align: center;
+     padding: .3rem 0;
+     font-size: 26px;
+ }  
+
+ h4 {
+    font-family: calibri, sans-serif;
+    text-transform: uppercase;
+    font-size: 19px;
+    letter-spacing: 1px;
+    margin-bottom: 1rem;
+}
+
+.job {
+    color: rgb(60, 60, 197);
+}
+
+h4 .date {
+    color: rgb(77, 76, 76);
+    font-family: calibri, sans-serif;
+    text-transform: uppercase;
+    font-size: 19px;
+    letter-spacing: 1px;
+    font-style: italic;
+}
+
+.work {
+     margin-bottom: 2.5rem;
+}
+
+.work2 {
+    margin-top: 2.5rem;
+}
+
+.activity {
+    padding-left: 2.5rem;
+    margin-bottom: 2.5rem;
+}
+
+.activity li {
+    padding-bottom: .5rem;
+}
+
+.ex {
+    padding-top: 2.5rem;
+}
+
+.h4-ud {
+    text-decoration: underline;
+}
+
+.degree {
+    font-size: 18px;
+}
+
+.norm {
+    font-family: calibri, sans-serif;
+    font-size: 18px;
+    letter-spacing: 1px;
+    font-weight: 400;
+}
+
+h6 {
+    font-size: 16px;
+    color: rgb(77, 76, 76);
+    font-style: italic;
+    margin-bottom: 2.5rem;
+}
+
+.edu3 {
+    margin-top: 2.5rem;
+}
+
+.A {
+    margin-bottom: 1rem;
+}
